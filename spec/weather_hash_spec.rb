@@ -14,7 +14,7 @@ describe 'Weather Hash' do
       :city => "San Francisco",
       :description => "Sunny",
       :temperature_farenheit => 57,
-      :temperature_celcius => 13
+      :temperature_celcius => 13.9
     }
   end
 
