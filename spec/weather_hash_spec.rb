@@ -13,7 +13,7 @@ describe 'Weather Hash' do
     @sf_weather = {
       :city => "San Francisco",
       :description => "Sunny",
-      :temperature_farenheit => 58.3,
+      :temperature_farenheit => 57,
       :temperature_celcius => 13
     }
   end
